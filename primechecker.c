@@ -5,7 +5,6 @@ int main()
 {
 	//Ask user for number 
 	//Output all prime numbers between 0 and number
-	//Output the total number of prime numbers
 	//
 	
 
